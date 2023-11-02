@@ -6,4 +6,15 @@ this is commit after
 my first commit after push 
 >>>>>>> f2aae17ccf3366b705be7e6470ec81636da69feb
 
+<<<<<<< HEAD
 this is git test for checkout
+=======
+this is test first before revert
+<<<<<<< HEAD
+
+this is commit after
+=======
+my first commit after push 
+>>>>>>> f2aae17ccf3366b705be7e6470ec81636da69feb
+
+>>>>>>> a8091ca08c26dcaada9eb9836cd52569cf114573
